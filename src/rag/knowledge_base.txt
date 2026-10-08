@@ -1,0 +1,54 @@
+E-COMMERCE COMPANY KNOWLEDGE BASE
+
+ORDER POLICY
+
+Orders can be cancelled before they are shipped.
+Once an order has been shipped, cancellation may not be possible.
+Customers should contact customer support for cancellation requests.
+
+DELIVERY POLICY
+
+Standard delivery usually takes between 3 and 7 business days.
+Delivery estimates may vary depending on the customer's location,
+seller processing time, weekends and public holidays.
+
+If an order is delivered after the estimated delivery date,
+the order may be considered delayed.
+
+RETURN POLICY
+
+Customers can request a return according to the return policy
+associated with the product.
+
+Products that are damaged, defective or incorrect may qualify
+for return depending on the applicable policy.
+
+Some products may not be eligible for return.
+
+REFUND POLICY
+
+Refunds are generally processed after the returned product has
+been received and inspected.
+
+The time required for the refund to reach the customer's account
+may depend on the payment method and financial institution.
+
+CUSTOMER SUPPORT
+
+Customers should provide their order ID when contacting support
+about an order-related issue.
+
+For questions about a specific order, the order tools should be
+used instead of relying only on general company knowledge.
+
+IMPORTANT AGENT RULE
+
+General company policies should be retrieved from the knowledge
+base.
+
+Specific order status, customer information, delivery dates and
+order history must be retrieved using the appropriate database
+tools.
+
+The agent must never invent information that is not available
+from the tools or knowledge base.
